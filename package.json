@@ -1,6 +1,9 @@
 {
   "name": "music-api",
   "version": "1.0.0",
+  "engines": {
+    "node": "8.12.0"
+  },
   "description": "A Music Restful API for Egghead Course: Secure Restful API with Nodejs, and Mongoose",
   "main": "index.js",
   "scripts": {
